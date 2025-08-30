@@ -1,8 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQuant_PopulationTheory_full.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/Teorie_LiliQuant_Verze_7_0.ipynb)
-
-
 # Teorie LiliQuant – Verze 7.0.0  
 # LiliQuant Theory – Version 7.0.0
 
@@ -18,8 +13,10 @@ To provide a publicly verifiable and fully reproducible proof that the signal po
 
 ## Spuštění v Google Colab / Running in Google Colab
 
-1. Otevřete soubor `LiliQ_Final_Proof.ipynb` v Google Colab.  
-   Open the file `LiliQ_Final_Proof.ipynb` in Google Colab.
+1. Otevřete soubor `LiliQ_Final_Proof.ipynb` v Google Colab.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
+
+   Open the file `LiliQ_Final_Proof.ipynb` in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
+
 
 2. V menu zvolte „Runtime“ → „Run all“.  
    From the menu, select “Runtime” → “Run all”.
@@ -46,8 +43,10 @@ To provide a publicly verifiable and fully reproducible proof that the signal po
 Veškeré numerické simulace a experimentální analýzy jsou plně replikovatelné.  
 All numerical simulations and experimental analyses are fully reproducible.
 
-Interaktivní sešit s finálním důkazem (`LiliQ_Final_Proof.ipynb`) a kompletní vývojový deník (`LiliQuant_Development_Log_Full.ipynb`) jsou dostupné v doprovodném repozitáři.  
-The interactive notebook with the final proof (`LiliQ_Final_Proof.ipynb`) and the complete development log (`LiliQuant_Development_Log_Full.ipynb`) are available in the accompanying repository.
+Interaktivní sešit s finálním důkazem [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
+(`LiliQ_Final_Proof.ipynb`) a kompletní vývojový deník (`LiliQuant_Development_Log_Full.ipynb`) jsou dostupné v doprovodném repozitáři.  
+The interactive notebook with the final proof [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
+(`LiliQ_Final_Proof.ipynb`) and the complete development log (`LiliQuant_Development_Log_Full.ipynb`) are available in the accompanying repository.
 
 ## Licence / License
 

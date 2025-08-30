@@ -1,6 +1,15 @@
 # 🌌 Teorie LiliQuant – Verze 7.0.0  
 **LiliQuant Theory – Version 7.0.0**
 
+> **CZ:**  
+> **LiliQuant Theory** je průlomový teoretický rámec propojující kosmologii, populaci a kvantitativní vědy do jednoho uceleného modelu.  
+> Tento projekt nabízí veřejně ověřitelný důkaz, že komplexní signály lze nejen detekovat, ale i naučit se je rozpoznávat s vysokou přesností.  
+>  
+> **EN:**  
+> **LiliQuant Theory** is a groundbreaking theoretical framework uniting cosmology, population studies, and quantitative sciences into a single coherent model.  
+> This project provides a publicly verifiable proof that complex signals can not only be detected but also learned and recognized with high accuracy.
+
+
 ---
 
 ## 📖 Popis / Description

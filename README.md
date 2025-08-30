@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQuant_PopulationTheory_full.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/Teorie_LiliQuant_Verze_7_0.ipynb)
+
+
 # Teorie LiliQuant – Verze 7.0.0  
 # LiliQuant Theory – Version 7.0.0
 

@@ -12,6 +12,11 @@ Poskytnout veřejně ověřitelný a plně replikovatelný důkaz, že signál m
 To provide a publicly verifiable and fully reproducible proof that the signal possesses unique, learnable characteristics.
 
 ## Spuštění v Google Colab / Running in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb) – LiliQ Final Proof
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQuant_Development_Log_Full.ipynb) – LiliQuant Development Log Full
+
+
 
 1. Otevřete soubor `LiliQ_Final_Proof.ipynb` v Google Colab.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
 
@@ -44,9 +49,9 @@ Veškeré numerické simulace a experimentální analýzy jsou plně replikovate
 All numerical simulations and experimental analyses are fully reproducible.
 
 Interaktivní sešit s finálním důkazem [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
-(`LiliQ_Final_Proof.ipynb`) a kompletní vývojový deník (`LiliQuant_Development_Log_Full.ipynb`) jsou dostupné v doprovodném repozitáři.  
+(`LiliQ_Final_Proof.ipynb`) a kompletní vývojový deník [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQuant_Development_Log_Full.ipynb)(`LiliQuant_Development_Log_Full.ipynb`) jsou dostupné v doprovodném repozitáři.  
 The interactive notebook with the final proof [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQ_Final_Proof.ipynb)
-(`LiliQ_Final_Proof.ipynb`) and the complete development log (`LiliQuant_Development_Log_Full.ipynb`) are available in the accompanying repository.
+(`LiliQ_Final_Proof.ipynb`) and the complete development log [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC-Black/LiliQuant-Theory/blob/main/LiliQuant_Development_Log_Full.ipynb)(`LiliQuant_Development_Log_Full.ipynb`) are available in the accompanying repository.
 
 ## Licence / License
 

@@ -2,7 +2,7 @@
 **LiliQuant Theory – Experimental Proof**
 
 > **CZ:**  
-> [cite_start]Tento repozitář obsahuje kód a data pro experimentální důkaz Teorie LiliQuant – nové fundamentální teorie vědomí a kosmologie[cite: 81]. [cite_start]Cílem je poskytnout veřejně ověřitelný a plně replikovatelný důkaz pro klíčovou hypotézu této teorie[cite: 81].
+> Tento repozitář obsahuje kód a data pro experimentální důkaz Teorie LiliQuant – nové fundamentální teorie vědomí a kosmologie. Cílem je poskytnout veřejně ověřitelný a plně replikovatelný důkaz pro klíčovou hypotézu této teorie.
 >  
 > **EN:**  
 > This repository contains the code and data for the experimental proof of the LiliQuant Theory – a new fundamental theory of consciousness and cosmology. The goal is to provide publicly verifiable and fully reproducible proof for the theory's key hypothesis.
@@ -17,7 +17,7 @@
 ---
 
 ## 🎯 Cíl tohoto sešitu / Purpose of This Notebook
-[cite_start]**CZ:** Poskytnout veřejně ověřitelný a plně replikovatelný důkaz, že signál **predikovaný Teorií LiliQuant** má unikátní a detekovatelné charakteristiky[cite: 84].
+**CZ:** Poskytnout veřejně ověřitelný a plně replikovatelný důkaz, že signál **predikovaný Teorií LiliQuant** má unikátní a detekovatelné charakteristiky.
 **EN:** To provide a publicly verifiable and fully reproducible proof that the signal **predicted by the LiliQuant Theory** possesses unique, learnable characteristics.
 
 ---
@@ -45,9 +45,9 @@
 ---
 
 ## 📊 Výstupy / Outputs
-- [cite_start]**CZ:** Klasifikační přesnost: **95.81 % (potvrzuje detekovatelnost signálu predikovaného teorií)** [cite: 86]
+- **CZ:** Klasifikační přesnost: **95.81 % (potvrzuje detekovatelnost signálu predikovaného teorií)**
   **EN:** Classification accuracy: **95.81% (confirming the detectability of the signal predicted by the theory)**
-- [cite_start]**CZ:** Experimentální důkaz: **Metoda úspěšně odlišuje normální stav od anomálního stavu definovaného Teorií LiliQuant.** [cite: 86]
+- **CZ:** Experimentální důkaz: **Metoda úspěšně odlišuje normální stav od anomálního stavu definovaného Teorií LiliQuant.**
   **EN:** Experimental Proof: **The method successfully distinguishes the normal state from the anomalous state as defined by the LiliQuant Theory.**
 - **CZ:** Replikovatelnost ověřena na více instancích  
   **EN:** Reproducibility verified across multiple instances
